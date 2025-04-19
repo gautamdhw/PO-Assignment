@@ -55,7 +55,7 @@ To run the notebook:
 
 ## 👤 Author
 
-- [Your Name Here]
+- [Gautam]
 
 ## 📜 License
 
